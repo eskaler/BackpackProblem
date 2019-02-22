@@ -1,0 +1,17 @@
+C:\Users\vera\source\repos\BackpackProblem\BackpackProblem\bin\Debug\BackpackProblem.exe.config
+C:\Users\vera\source\repos\BackpackProblem\BackpackProblem\bin\Debug\BackpackProblem.exe
+C:\Users\vera\source\repos\BackpackProblem\BackpackProblem\bin\Debug\BackpackProblem.pdb
+C:\Users\vera\source\repos\BackpackProblem\BackpackProblem\obj\Debug\BackpackProblem.csprojAssemblyReference.cache
+C:\Users\vera\source\repos\BackpackProblem\BackpackProblem\obj\Debug\ItemControl.g.cs
+C:\Users\vera\source\repos\BackpackProblem\BackpackProblem\obj\Debug\MainWindow.g.cs
+C:\Users\vera\source\repos\BackpackProblem\BackpackProblem\obj\Debug\App.g.cs
+C:\Users\vera\source\repos\BackpackProblem\BackpackProblem\obj\Debug\BackpackProblem_MarkupCompile.cache
+C:\Users\vera\source\repos\BackpackProblem\BackpackProblem\obj\Debug\BackpackProblem_MarkupCompile.lref
+C:\Users\vera\source\repos\BackpackProblem\BackpackProblem\obj\Debug\ItemControl.baml
+C:\Users\vera\source\repos\BackpackProblem\BackpackProblem\obj\Debug\MainWindow.baml
+C:\Users\vera\source\repos\BackpackProblem\BackpackProblem\obj\Debug\BackpackProblem.g.resources
+C:\Users\vera\source\repos\BackpackProblem\BackpackProblem\obj\Debug\BackpackProblem.Properties.Resources.resources
+C:\Users\vera\source\repos\BackpackProblem\BackpackProblem\obj\Debug\BackpackProblem.csproj.GenerateResource.cache
+C:\Users\vera\source\repos\BackpackProblem\BackpackProblem\obj\Debug\BackpackProblem.csproj.CoreCompileInputs.cache
+C:\Users\vera\source\repos\BackpackProblem\BackpackProblem\obj\Debug\BackpackProblem.exe
+C:\Users\vera\source\repos\BackpackProblem\BackpackProblem\obj\Debug\BackpackProblem.pdb
