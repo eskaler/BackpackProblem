@@ -1,1 +1,2 @@
-# BackpackProblem
+# Задача о рюкзаке
+![Пример](/screen1.png)
